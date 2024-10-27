@@ -37,6 +37,6 @@
 <div>- 충돌이 일어나니 조심하자...</div>
 <div>- 같은 위치의 코드가 변경되었기에 때문인 경우니까 이럴 땐 다름 팀원들과 상의 후에 삭제하고 원하는 코드로 수정하면 문제가 해결된다.</div>
 
-### 출처
+### 참고
 <div>https://velog.io/@lazysia/git-github-desktop-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0</div>
 <div>https://github.com/tnsgud9/Git_Practice?tab=readme-ov-file#git_practice</div>
